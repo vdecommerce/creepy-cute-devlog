@@ -78,5 +78,29 @@
     "label": "Roblox Studio · decorinspectie van versie 0.3.2",
     "alt": "Een houten dauwharp naast rozen, verweerde steen en de lichtgevende route.",
     "kind": "native"
+  },
+  "texture-bunix": {
+    "file": "texture-bunix.webp",
+    "width": 1600,
+    "height": 850,
+    "label": "Roblox Studio · vaste inspectiecamera, versie 0.3.3",
+    "alt": "Bunix met drie zichtbare ogen aan elke kant tijdens een Studio-inspectie.",
+    "kind": "native"
+  },
+  "texture-flowers": {
+    "file": "texture-flowers.webp",
+    "width": 1600,
+    "height": 850,
+    "label": "Roblox Studio · vaste inspectiecamera, versie 0.3.3",
+    "alt": "Een gelaagde roos met opnieuw ingedeelde textures tijdens de Studio-inspectie.",
+    "kind": "native"
+  },
+  "texture-garden": {
+    "file": "texture-garden.webp",
+    "width": 1600,
+    "height": 850,
+    "label": "Roblox Studio · vaste inspectiecamera, versie 0.3.3",
+    "alt": "De tuinroute met vernieuwde steenmaterialen en een doorlopende wolkenhemel.",
+    "kind": "native"
   }
 }

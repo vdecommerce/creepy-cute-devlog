@@ -1,5 +1,47 @@
 [
   {
+    "slug": "texturen-en-ogen-op-hun-plek",
+    "date": "2026-10-19",
+    "category": "Update 0.3.3",
+    "title": "Texturen en ogen op hun plek",
+    "summary": "Scherpere materialen, herstelde oogvlakken voor Bunix en een doorlopende wolkenhemel voor de besloten tuin.",
+    "image": "texture-bunix",
+    "sections": [
+      {
+        "heading": "Steen en bloemen krijgen hun eigen detail",
+        "paragraphs": [
+          "Tijdens het rondkijken vielen lange strepen in het metselwerk en uitgerekte details op. De modellen hadden wel texturecoördinaten, maar die pasten niet goed genoeg bij hun werkelijke oppervlakken.",
+          "De UV-indeling is opnieuw gemaakt en de modellen hebben eigen materiaalkaarten gekregen. Bogen en pijlers worden op hun bedoelde afmetingen gebruikt. De bestaande sprongen, checkpoints en verzamelpunten blijven behouden. De hoekige bloemranden en facetten in het steen horen nog bij de huidige modellen."
+        ],
+        "image": "texture-flowers"
+      },
+      {
+        "heading": "Zes ogen voor Bunix",
+        "paragraphs": [
+          "Een deel van Bunix’ gespiegelde vlakken stond binnenstebuiten. Daardoor konden ogen bij het draaien van de camera verdwijnen. De richting van die vlakken is in het model hersteld. Zijn vorm, steken en gewone beweging blijven behouden.",
+          "We hebben hem van voren, schuin en van opzij bekeken, met zijn normale animatie actief."
+        ]
+      },
+      {
+        "heading": "Een hemel die rondom aansluit",
+        "paragraphs": [
+          "De oude achtergrondillustratie werd over een vaste bol gespannen. De tuin gebruikt nu zes aansluitende hemelbeelden uit één doorlopende scène. De oorspronkelijke illustratie blijft als één ver uitzicht aanwezig.",
+          "Ook de boven- en onderkant zijn in Studio gecontroleerd. Het uitzicht blijft bij het draaien van de camera samenhangen."
+        ],
+        "image": "texture-garden"
+      },
+      {
+        "heading": "Opgenomen in de besloten test",
+        "paragraphs": [
+          "De volledige Studio-test met twee clients is geslaagd, waaronder verzamelen, herstellen, checkpoints, de oefenroute en opnieuw verschijnen na een val. Versie 0.3.3 is opgenomen in de bestaande besloten test.",
+          "De beelden in dit artikel zijn vaste inspectiecamera’s in een echte Studio-client, met de gewone spelbelichting en animatie. Speler en spelinterface zijn verborgen. Het zijn geen gewone wandelopnamen of metingen op een fysieke telefoon. Laden en prestaties op echte telefoons vragen nog afzonderlijke controle.",
+          "De scherpere textures kosten extra geheugen: de gecontroleerde desktopmeting liet ongeveer 74–96 MB extra in Roblox’ texturecategorie zien. Dat is geen snelheidswinst; de afweging op echte telefoons moeten we nog meten.",
+          "Hoofdstuk I blijft het huidige avontuur. Alle twaalf herinneringsknopen verzamelen opent nog geen tweede hoofdstuk."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "de-nieuwe-tuin-is-uitgebracht",
     "date": "2026-10-19",
     "category": "Update 0.3.2",
@@ -25,7 +67,7 @@
       {
         "heading": "Getest en opgenomen in de besloten versie",
         "paragraphs": [
-          "De volledige Studio-test met twee spelers is geslaagd, waaronder de voortgang, het herstellen van vrienden, de oefenroute, opnieuw verschijnen na een val en de muziekbediening. Tijdens het testen is ook een fout opgelost waarbij laat geladen muziek na dempen weer hoorbaar kon worden.",
+          "De volledige Studio-test met twee clients is geslaagd, waaronder de voortgang, het herstellen van vrienden, de oefenroute, opnieuw verschijnen na een val en de muziekbediening. Tijdens het testen is ook een fout opgelost waarbij laat geladen muziek na dempen weer hoorbaar kon worden.",
           "De update is gepubliceerd voor de bestaande besloten test. De afgebeelde Studio-inspecties tonen dezelfde decoratiemodellen met een vaste camera en herstelde materiaalkleuren. Speler en interface zijn verborgen; het zijn geen gewone speelbeelden of metingen op een fysieke telefoon."
         ]
       },
