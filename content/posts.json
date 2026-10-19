@@ -1,5 +1,54 @@
 [
   {
+    "slug": "de-eerste-steken-van-bunnys-maze",
+    "date": "2026-10-19",
+    "category": "Update 0.4.0",
+    "title": "Bunny’s Maze opent achter de tuinpoort",
+    "summary": "Hoofdstuk II is speelbaar in de besloten test: drie doolhofhoven, drie symboolpuzzels en zes optionele linten.",
+    "image": "maze-bunny",
+    "sections": [
+      {
+        "heading": "Een vervolg voor Bunny",
+        "paragraphs": [
+          "Na het herstellen van de tuin gaat de poort naar Bunny’s Maze open. Bunny’s lied zit vast in drie steken. Je helpt haar door een weg te zoeken door drie oude kloosterhoven.",
+          "Hoofdstuk II sluit aan op checkpoint zestien en het herstellen van alle drie de vrienden. De twaalf herinneringsknopen uit de tuin blijven optioneel. Je bestaande tuinvoortgang, draadkleuren en beloningen blijven behouden."
+        ]
+      },
+      {
+        "heading": "Drie hoven met eigen herkenningspunten",
+        "paragraphs": [
+          "De drie hoven gebruiken rozenbogen, spoelen, maanbloemen en een dauwharp als eigen accenten. Hoge stenen muren vormen brede gangen met splitsingen en doodlopende zijpaden. De vloer loopt door: dit hoofdstuk draait om zoeken en lezen.",
+          "De bloemen, ruïnes en lantaarns gebruiken de herstelde materialen uit de tuin op hun bedoelde schaal. De gangen herhalen nog dezelfde muurmodules; de herkenningspunten zijn vooral bij de toegang en puzzelplekken zichtbaar."
+        ],
+        "image": "maze-court"
+      },
+      {
+        "heading": "Lees de drie steken",
+        "paragraphs": [
+          "In ieder hof staat een steentafel met de symbolen Roos, Klos en Maan. Het bord toont de volgorde waarin je ze kiest. Namen en vormen maken de aanwijzing ook zonder kleur herkenbaar.",
+          "Drie goede keuzes openen jouw volgende poort. Een verkeerde keuze begint alleen de huidige reeks opnieuw. Je verliest geen eerder geopende poorten en er is geen timer of betaalde overslag. Iedere speler houdt eigen puzzelvoortgang."
+        ],
+        "image": "maze-clue"
+      },
+      {
+        "heading": "Ruimte om te zoeken en terug te keren",
+        "paragraphs": [
+          "Vier checkpoints markeren de aankomst, de volgende twee hoven en de bloesemklok bij Bunny. Zes optionele linten liggen op zijroutes, twee per hof. Ze zijn een extra reden om te verkennen en zijn niet nodig voor de drie puzzels.",
+          "Via Uitleg / terug kun je overal terug naar de tuin. Een volgend bezoek aan het doolhof hervat je bij jouw bewaarde checkpoint. Ook na een val verschijn je opnieuw bij het checkpoint van dit hoofdstuk. Iedere speler houdt eigen puzzel- en lintvoortgang."
+        ]
+      },
+      {
+        "heading": "Gecontroleerd in Studio, nu in de besloten test",
+        "paragraphs": [
+          "De volledige Studio-controle van de bestaande tuin en het nieuwe doolhof is met twee clients geslaagd. De looptest volgde 31 routes met 327 echte loopopdrachten, inclusief zijpaden, alle puzzels, opnieuw verschijnen en terugkeren. Ook de Nederlandse en Engelse uitleg is op gesimuleerde kleine schermen gecontroleerd.",
+          "De beelden bij dit artikel zijn vaste inspectiecamera’s in een echte Studio-client, met de gewone spelbelichting en Bunny’s normale animatie. Ze tonen een lokale test met vooraf ingestelde voortgang. Het zijn geen gewone wandelopnamen of fysieke telefoontests.",
+          "Bij versie 0.3.3 is gemeld dat spelen op een telefoon goed werkt. Die ervaring hoort bij de eerdere tuin. Het nieuwe doolhof moet nog op een echte telefoon worden getest; beeldsnelheid, geheugen en opnieuw inloggen met de nieuwe voortgang zijn niet afzonderlijk gemeten.",
+          "Versie 0.4.0 is opgenomen in de bestaande besloten test. De game is niet openbaar uitgebracht."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "texturen-en-ogen-op-hun-plek",
     "date": "2026-10-19",
     "category": "Update 0.3.3",

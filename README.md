@@ -4,7 +4,7 @@ Publieke website: https://vdecommerce.github.io/creepy-cute-devlog/
 
 Een zelfstandig Nederlands ontwikkeldagboek met geselecteerde beelden. De
 Roblox-bron en spelmodellen staan in een afzonderlijke private repository.
-De website maakt de game niet openbaar; Hoofdstuk I is in een besloten test.
+De website maakt de game niet openbaar; Hoofdstuk I en II zijn in een besloten test.
 
 ## Lokaal werken
 
