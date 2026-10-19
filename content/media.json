@@ -46,5 +46,21 @@
     "label": "Roblox Studio · historisch spelbeeld, versie 18",
     "alt": "De eerste route door de zwevende tuin in Roblox Studio.",
     "kind": "native"
+  },
+  "rose-native": {
+    "file": "rose-native.webp",
+    "width": 1600,
+    "height": 880,
+    "label": "Roblox Studio · decorinspectie, nog niet uitgebracht",
+    "alt": "Gelaagde roze rozen met groene bladeren tijdens de decorinspectie in Studio.",
+    "kind": "native"
+  },
+  "harp-native": {
+    "file": "harp-native.webp",
+    "width": 1600,
+    "height": 880,
+    "label": "Roblox Studio · decorinspectie, nog niet uitgebracht",
+    "alt": "Een houten dauwharp naast rozen, verweerde steen en de lichtgevende route.",
+    "kind": "native"
   }
 }

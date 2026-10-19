@@ -25,9 +25,18 @@
       {
         "heading": "Eerst controleren in de game",
         "paragraphs": [
-          "Een mooie Blender-render is nog geen geslaagde spelwereld. We controleren daarom ook schaal, kleur en silhouetten in Roblox Studio. Een eerste controle liet zien dat de materiaalatlas te donker werd; dat wordt gecorrigeerd voordat de nieuwe uitvoering wordt uitgebracht.",
+          "Een mooie Blender-render is nog geen geslaagde spelwereld. We controleren daarom ook schaal, kleur en silhouetten in Roblox Studio. Een eerste controle liet zien dat de materiaalatlas te donker werd. Na de kleurcorrectie zijn de afzonderlijke bloemblaadjes ook in Studio goed zichtbaar.",
           "De geteste sprongroute blijft het uitgangspunt. Bestaande checkpoints, verzamelpunten en botsingsvlakken worden met de vorige wereld vergeleken. Dit artikel toont het modellenwerk in ontwikkeling, niet een nieuwe gepubliceerde spelversie."
-        ]
+        ],
+        "image": "rose-native"
+      },
+      {
+        "heading": "De nieuwe vormen in de tuin",
+        "paragraphs": [
+          "Naast de rozen krijgt ook het decor meer vorm: stenen hebben afgebroken randen en lagen, lantaarns een open kooi en de dauwharp een gebogen houten frame met hangende druppels.",
+          "Deze beelden gebruiken een vaste inspectiecamera met verborgen speler en interface. De materiaalkleuren staan op hun herstelde toestand. Ze tonen de modellen in de echte engine, maar zijn geen gewone speeltest of bewijs van telefoonprestaties. De nieuwe decoratie is nog niet uitgebracht."
+        ],
+        "image": "harp-native"
       }
     ]
   },

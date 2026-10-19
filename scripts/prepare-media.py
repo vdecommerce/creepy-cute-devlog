@@ -11,6 +11,9 @@ items={
  'character-render':('art/previews/characters-v3/front.webp','Blender-render · personageontwerp','De eigen modellen van Bunix, zittende Bunny en de ronde wollige Critter.','render'),
  'character-native':('art/previews/characters-v3/native/restore_three_quarter.webp','Roblox Studio · personage-inspectie 0.3.1','De drie stoffen vrienden tijdens een native inspectie van hun beweging.','native'),
  'chapter-one':('art/previews/native-gameplay-v18.png','Roblox Studio · historisch spelbeeld, versie 18','De eerste route door de zwevende tuin in Roblox Studio.','native')}
+items.update({
+ 'rose-native':('art/previews/scenery-v4/native/rose_detail.png','Roblox Studio · decorinspectie, nog niet uitgebracht','Gelaagde roze rozen met groene bladeren tijdens de decorinspectie in Studio.','native'),
+ 'harp-native':('art/previews/scenery-v4/native/harp_detail.png','Roblox Studio · decorinspectie, nog niet uitgebracht','Een houten dauwharp naast rozen, verweerde steen en de lichtgevende route.','native')})
 media={}
 for key,(relative,label,alt,kind) in items.items():
  source=GAME/relative;target=ROOT/'public/assets/media'/(key+'.webp')
