@@ -1,0 +1,15 @@
+{
+  "name": "Creepy Cute: The Forgotten Garden",
+  "shortName": "Creepy Cute",
+  "url": "https://vdecommerce.github.io/creepy-cute-devlog/",
+  "base": "/creepy-cute-devlog/",
+  "description": "Volg de ontwikkeling van Creepy Cute: The Forgotten Garden. Een mysterieuze Roblox-tuin vol handgemaakte poppen, rozen en verborgen herinneringen.",
+  "status": "In ontwikkeling · besloten test",
+  "chapter": "Hoofdstuk I",
+  "release": "0.3.1",
+  "updated": "2026-10-19",
+  "statusText": "Het eerste hoofdstuk is speelbaar in een besloten test. De tuin heeft zestien checkpoints, drie vrienden om te herstellen en twaalf verborgen herinneringsknopen. We werken nu aan rijkere planten, steen en decoraties.",
+  "nextText": "Bunny’s Maze is een idee voor een volgend hoofdstuk. Het is nog niet speelbaar; alle knopen verzamelen opent die poort nog niet.",
+  "gameUrl": "https://www.roblox.com/games/73368232297614/",
+  "repository": "https://github.com/vdecommerce/creepy-cute-devlog"
+}

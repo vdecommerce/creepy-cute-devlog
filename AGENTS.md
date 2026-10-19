@@ -8,7 +8,10 @@ website does not authorize a public game release or pass sales.
 Use Node.js 22+ without package dependencies. `npm run build` writes `dist/`;
 `npm run check` verifies local links, media, metadata, feed and sitemap;
 `npm run dev` serves the generated site at `/creepy-cute-devlog/`.
-GitHub Actions publishes reviewed main to GitHub Pages. Keep dist untracked.
+GitHub Pages serves the gh-pages branch. `npm run publish` builds/checks a clean,
+reviewed main and commits only the generated site to that artifact branch. Keep
+dist untracked on source branches. The current OAuth connection cannot add
+Actions workflow files; do not expand its credentials just to deploy this site.
 Work on a machine-named topic branch and review changes through a PR.
 
 Keep Dutch updates in `content/posts.json`, site status in `content/site.json`

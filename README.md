@@ -36,8 +36,10 @@ Er is geen open-source- of hergebruiklicentie voor artwork of spelmodellen.
 
 ## Publicatie
 
-Een gereviewde wijziging op main bouwt en controleert de website via GitHub
-Actions en publiceert dist naar GitHub Pages. De Pages-bron is GitHub Actions;
-dist wordt niet gecommit. Er zijn geen providerkeys of eigen tracking nodig.
+Na review en merge: voer op een schone main `npm run publish` uit. Dit bouwt en
+controleert de site en schrijft uitsluitend de gegenereerde bestanden naar de
+aparte gh-pages-branch. GitHub Pages serveert die branch. Dist blijft ongevolgd
+op bronbranches. Deze route werkt met de bestaande GitHub-koppeling, die geen
+Actions-workflow mag toevoegen. Er zijn geen providerkeys of eigen tracking nodig.
 
 Deze opzet volgt de aparte devblogrepository van Arcana: Echoes of the Stars.
