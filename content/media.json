@@ -1,0 +1,50 @@
+{
+  "concept": {
+    "file": "concept.webp",
+    "width": 1600,
+    "height": 900,
+    "label": "Conceptart · AI-illustratie",
+    "alt": "Promotionele conceptillustratie van de rozentuin met Bunix, Bunny en Critter.",
+    "kind": "concept"
+  },
+  "rose-models": {
+    "file": "rose-models.webp",
+    "width": 1400,
+    "height": 1000,
+    "label": "Blender-render · modellen in ontwikkeling",
+    "alt": "Nieuw gemodelleerde rozen met overlappende blaadjes en een rank met bladeren.",
+    "kind": "render"
+  },
+  "architecture-models": {
+    "file": "architecture-models.webp",
+    "width": 1400,
+    "height": 1000,
+    "label": "Blender-render · modellen in ontwikkeling",
+    "alt": "Een verweerde stenen boog, ruïnepijler, ijzeren lantaarn en draadspoel.",
+    "kind": "render"
+  },
+  "character-render": {
+    "file": "character-render.webp",
+    "width": 1500,
+    "height": 1000,
+    "label": "Blender-render · personageontwerp",
+    "alt": "De eigen modellen van Bunix, zittende Bunny en de ronde wollige Critter.",
+    "kind": "render"
+  },
+  "character-native": {
+    "file": "character-native.webp",
+    "width": 1600,
+    "height": 900,
+    "label": "Roblox Studio · personage-inspectie 0.3.1",
+    "alt": "De drie stoffen vrienden tijdens een native inspectie van hun beweging.",
+    "kind": "native"
+  },
+  "chapter-one": {
+    "file": "chapter-one.webp",
+    "width": 1600,
+    "height": 900,
+    "label": "Roblox Studio · historisch spelbeeld, versie 18",
+    "alt": "De eerste route door de zwevende tuin in Roblox Studio.",
+    "kind": "native"
+  }
+}

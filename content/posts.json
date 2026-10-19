@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "een-tuin-van-echte-vormen",
+    "date": "2026-10-19",
+    "category": "Art direction",
+    "title": "Van bolletjes naar bloemblaadjes",
+    "summary": "Na de eerste speeltest richten we ons op de wereld zelf: rozen, klimop, verweerde steen en lantaarns die dichter bij het artwork komen.",
+    "image": "rose-models",
+    "sections": [
+      {
+        "heading": "Het artwork als maatstaf",
+        "paragraphs": [
+          "De gewenste tuin is vochtig, verweerd en overwoekerd. Rozen hebben dunne, gevouwen bloemblaadjes. Klimop groeit langs oude stenen. Kleine warme lantaarns geven de donkere route houvast.",
+          "De eerste speelbare wereld gebruikte veel eenvoudige vormen. Dat maakte het mogelijk om de route snel te testen, maar van dichtbij waren bloemen nog bolclusters en ruïnes vooral rechte blokken."
+        ]
+      },
+      {
+        "heading": "Een nieuwe verzameling tuinmodellen",
+        "paragraphs": [
+          "We werken aan dertien eigen meshmodellen: twee rozen, een rozencluster, klimop, hangende wortels, leisteen, een gemetselde boog, een ruïnepijler, een lantaarn en vier herkenbare tuinobjecten.",
+          "De modellen krijgen gesloten geometrie en gedeelde materiaalkaarten. Zo kunnen we dezelfde vormen op verschillende plekken gebruiken en de wereld met minder losse onderdelen opbouwen."
+        ],
+        "image": "architecture-models"
+      },
+      {
+        "heading": "Eerst controleren in de game",
+        "paragraphs": [
+          "Een mooie Blender-render is nog geen geslaagde spelwereld. We controleren daarom ook schaal, kleur en silhouetten in Roblox Studio. Een eerste controle liet zien dat de materiaalatlas te donker werd; dat wordt gecorrigeerd voordat de nieuwe uitvoering wordt uitgebracht.",
+          "De geteste sprongroute blijft het uitgangspunt. Bestaande checkpoints, verzamelpunten en botsingsvlakken worden met de vorige wereld vergeleken. Dit artikel toont het modellenwerk in ontwikkeling, niet een nieuwe gepubliceerde spelversie."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "drie-vrienden-krijgen-beweging",
+    "date": "2026-10-19",
+    "category": "Personages",
+    "title": "Een kleine beweging maakt een groot verschil",
+    "summary": "Bunix, Bunny en Critter krijgen eigen skeletten en rustige bewegingen, met hun voeten en zitvlak op de grond.",
+    "image": "character-render",
+    "sections": [
+      {
+        "heading": "De eigen vormen bewaren",
+        "paragraphs": [
+          "De drie vrienden zijn het hart van Creepy Cute. Bunix heeft lange hangende oren en donkere ogen. Bunny blijft zitten. Critter is rond en wollig, ook wanneer je hem van de zijkant ziet.",
+          "Bunix en Bunny delen een vergelijkbare lichaamsmaat. Omdat Bunny zit, is hij lager in beeld. We schalen hem dus niet simpelweg even hoog als zijn staande vriend."
+        ]
+      },
+      {
+        "heading": "Rustige beweging voor stoffen poppen",
+        "paragraphs": [
+          "Elk personage heeft een eigen skelet met zes botten. Kleine bewegingen van hoofd en oren maken de poppen levendiger, zonder dat ze zweven of achter de speler aan lopen.",
+          "Bij het herstellen reageert een vriend kort. De rustige effectenstand laat de modellen weer tot stilstand komen. De bewegingen en grondcontacten zijn in Studio gecontroleerd."
+        ],
+        "image": "character-native"
+      },
+      {
+        "heading": "De stand van deze mijlpaal",
+        "paragraphs": [
+          "Deze personage-uitwerking zit in de besloten versie 0.3.1 van Hoofdstuk I. De controle gebruikte echte Studio-clients; dit is geen meting van prestaties op een fysieke telefoon."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "het-eerste-hoofdstuk-is-speelbaar",
+    "date": "2026-10-18",
+    "category": "Spelontwikkeling",
+    "title": "Een roze draad door de vergeten tuin",
+    "summary": "Zestien checkpoints, drie te herstellen vrienden en twaalf verborgen herinneringsknopen vormen het eerste hoofdstuk.",
+    "image": "chapter-one",
+    "sections": [
+      {
+        "heading": "Van aankomst tot knopenmaan",
+        "paragraphs": [
+          "De route voert door vier delen: de ontwakende tuin, het rozenklooster, de webbenvallei en de knopenmaan. Een lichtgevende draad verbindt stenen eilanden boven de mist.",
+          "Onderweg verdien je draadjes. Daarmee herstel je Bunix, Bunny en Critter. De tuin wordt geleidelijk levendiger en aan het einde komen de drie vrienden weer samen."
+        ]
+      },
+      {
+        "heading": "Op zoek naar herinneringen",
+        "paragraphs": [
+          "Twaalf verborgen knopen liggen op kleine zijroutes. Ze zijn optioneel voor het verhaal en ontgrendelen extra draadkleuren voor je collectie.",
+          "Na het verhaal kun je verder zoeken naar de verborgen knopen. Vanaf versie 0.3.0, toegevoegd op 19 oktober, kun je de route ook als oefenronde op tijd spelen, met behoud van je voltooide verhaal en verzameling."
+        ]
+      },
+      {
+        "heading": "Wat ligt er achter de poort?",
+        "paragraphs": [
+          "Bunny’s Maze kondigt een mogelijk volgend hoofdstuk aan. Die poort is nog niet open: alle twaalf knopen verzamelen maakt geen tweede level beschikbaar.",
+          "Voor nu ligt de aandacht op het afronden van de eerste tuin. De game is in een besloten test; een openbare releasedatum is nog niet aangekondigd."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "welkom-in-de-vergeten-tuin",
+    "date": "2026-10-18",
+    "category": "Het begin",
+    "title": "Zacht, vreemd en een beetje verloren",
+    "summary": "Het eerste idee voor Creepy Cute: een mysterieuze tuin, handgemaakte poppen en een warme draad die je de weg wijst.",
+    "image": "concept",
+    "sections": [
+      {
+        "heading": "Een wereld rond drie vrienden",
+        "paragraphs": [
+          "Creepy Cute: The Forgotten Garden begon met de vormen van Bunix en Bunny en een sfeervolle afbeelding van een wollig wezen dat later Critter ging heten. Daaruit ontstond het idee voor een tuin die haar kleur en leven is kwijtgeraakt.",
+          "We zoeken de grens tussen lief en licht ongemakkelijk: zachte stoffen, grote donkere ogen, verbleekte rozen en oude voorwerpen die een herinnering lijken vast te houden."
+        ]
+      },
+      {
+        "heading": "Van sfeerbeeld naar speelbare plek",
+        "paragraphs": [
+          "De promotionele illustratie helpt ons de richting te kiezen. Zwevende leisteen, rozenbogen, spinnenwebben met dauw en een grote knopenmaan vormen de visuele belofte.",
+          "Deze illustratie is AI-gegenereerde conceptart. De beelden van modellen en van het spel krijgen op deze blog elk een eigen label, zodat duidelijk blijft wat al in de game bestaat en wat nog een ontwerpdoel is."
+        ]
+      },
+      {
+        "heading": "Wat we hier delen",
+        "paragraphs": [
+          "In dit ontwikkeldagboek laten we betekenisvolle stappen zien: wat er is gebouwd, wat tijdens het testen opvalt en wat nog beter moet. Niet iedere proef wordt een release.",
+          "De site volgt de ontwikkeling van de tuin. De game zelf blijft voorlopig in een besloten test."
+        ]
+      }
+    ]
+  }
+]
