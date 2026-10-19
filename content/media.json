@@ -102,5 +102,29 @@
     "label": "Roblox Studio · vaste inspectiecamera, versie 0.3.3",
     "alt": "De tuinroute met vernieuwde steenmaterialen en een doorlopende wolkenhemel.",
     "kind": "native"
+  },
+  "maze-bunny": {
+    "file": "maze-bunny.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera, versie 0.4.0",
+    "alt": "Bunny bij de bloesemklok aan het einde van het doolhof.",
+    "kind": "native"
+  },
+  "maze-court": {
+    "file": "maze-court.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera, versie 0.4.0",
+    "alt": "Een vaste blik op de ingang en stenen gangen van het eerste doolhof.",
+    "kind": "native"
+  },
+  "maze-clue": {
+    "file": "maze-clue.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera, versie 0.4.0",
+    "alt": "De Nederlandse aanwijzing met de drie symbolen Maan, Roos en Klos.",
+    "kind": "native"
   }
 }
