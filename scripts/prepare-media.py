@@ -14,7 +14,11 @@ items={
 items.update({
  'rose-native':('art/previews/scenery-v4/native/rose_detail.png','Roblox Studio · decorinspectie, nog niet uitgebracht','Gelaagde roze rozen met groene bladeren tijdens de decorinspectie in Studio.','native'),
  'harp-native':('art/previews/scenery-v4/native/harp_detail.png','Roblox Studio · decorinspectie, nog niet uitgebracht','Een houten dauwharp naast rozen, verweerde steen en de lichtgevende route.','native')})
-media={}
+items.update({
+ 'texture-bunix':('art/previews/texture-repair/public/bunix_front.webp','Roblox Studio · vaste inspectiecamera, versie 0.3.3','Bunix met drie zichtbare ogen aan elke kant tijdens een Studio-inspectie.','native'),
+ 'texture-flowers':('art/previews/texture-repair/public/flower_detail.webp','Roblox Studio · vaste inspectiecamera, versie 0.3.3','Een gelaagde roos met opnieuw ingedeelde textures tijdens de Studio-inspectie.','native'),
+ 'texture-garden':('art/previews/texture-repair/public/zone_1.webp','Roblox Studio · vaste inspectiecamera, versie 0.3.3','De tuinroute met vernieuwde steenmaterialen en een doorlopende wolkenhemel.','native')})
+media=json.loads((ROOT/'content/media.json').read_text())
 for key,(relative,label,alt,kind) in items.items():
  source=GAME/relative;target=ROOT/'public/assets/media'/(key+'.webp')
  assert source.is_file(),source
