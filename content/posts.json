@@ -1,5 +1,44 @@
 [
   {
+    "slug": "de-nieuwe-tuin-is-uitgebracht",
+    "date": "2026-10-19",
+    "category": "Update 0.3.2",
+    "title": "De rozen krijgen hun blaadjes",
+    "summary": "De uitgewerkte bloemen, klimop, stenen en lantaarns zitten nu in de besloten test. De vertrouwde route blijft behouden.",
+    "image": "rose-release-inspection",
+    "sections": [
+      {
+        "heading": "Meer vorm in de vergeten tuin",
+        "paragraphs": [
+          "Versie 0.3.2 brengt dertien eigen decoratiemodellen naar Hoofdstuk I. Rozen hebben overlappende bloemblaadjes, klimop heeft losse bladeren en hangende wortels verbinden de stenen met de tuin.",
+          "Ook het metselwerk en de voorwerpen zijn verder uitgewerkt: afgebroken steenranden, een open lantaarnkooi, een draadspoel en een gebogen dauwharp. De vormen sluiten beter aan op de sfeer van het artwork."
+        ],
+        "image": "harp-release-inspection"
+      },
+      {
+        "heading": "Dezelfde sprongen, een rijkere omgeving",
+        "paragraphs": [
+          "De nieuwe decoratie is rondom de bestaande sprongroute opgebouwd. Checkpoints, verzamelpunten en botsingsvlakken zijn met de vorige wereld vergeleken. Hoofdstuk I houdt zijn zestien checkpoints, drie vrienden en twaalf verborgen herinneringsknopen.",
+          "De bloemen en ruïnes bestaan uit minder losse onderdelen. Dat is gecontroleerd in de wereldopbouw; het is geen gemeten verbetering van de beeldsnelheid op een telefoon."
+        ]
+      },
+      {
+        "heading": "Getest en opgenomen in de besloten versie",
+        "paragraphs": [
+          "De volledige Studio-test met twee spelers is geslaagd, waaronder de voortgang, het herstellen van vrienden, de oefenroute, opnieuw verschijnen na een val en de muziekbediening. Tijdens het testen is ook een fout opgelost waarbij laat geladen muziek na dempen weer hoorbaar kon worden.",
+          "De update is gepubliceerd voor de bestaande besloten test. De afgebeelde Studio-inspecties tonen dezelfde decoratiemodellen met een vaste camera en herstelde materiaalkleuren. Speler en interface zijn verborgen; het zijn geen gewone speelbeelden of metingen op een fysieke telefoon."
+        ]
+      },
+      {
+        "heading": "Hoofdstuk I blijft het huidige avontuur",
+        "paragraphs": [
+          "Alle herinneringsknopen verzamelen opent nog geen tweede level. Bunny’s Maze blijft een aankondiging voor een mogelijk volgend hoofdstuk.",
+          "Voor deze stap richten we ons op de kwaliteit van de bestaande tuin. De game blijft in een besloten test; een openbare releasedatum is niet aangekondigd."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "een-tuin-van-echte-vormen",
     "date": "2026-10-19",
     "category": "Art direction",

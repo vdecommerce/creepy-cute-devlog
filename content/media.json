@@ -62,5 +62,21 @@
     "label": "Roblox Studio · decorinspectie, nog niet uitgebracht",
     "alt": "Een houten dauwharp naast rozen, verweerde steen en de lichtgevende route.",
     "kind": "native"
+  },
+  "rose-release-inspection": {
+    "file": "rose-native.webp",
+    "width": 1600,
+    "height": 880,
+    "label": "Roblox Studio · decorinspectie van versie 0.3.2",
+    "alt": "Gelaagde roze rozen met groene bladeren tijdens de decorinspectie in Studio.",
+    "kind": "native"
+  },
+  "harp-release-inspection": {
+    "file": "harp-native.webp",
+    "width": 1600,
+    "height": 880,
+    "label": "Roblox Studio · decorinspectie van versie 0.3.2",
+    "alt": "Een houten dauwharp naast rozen, verweerde steen en de lichtgevende route.",
+    "kind": "native"
   }
 }
