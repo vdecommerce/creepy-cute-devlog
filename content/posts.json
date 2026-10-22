@@ -1,5 +1,47 @@
 [
   {
+    "slug": "meer-houvast-in-bunnys-maze",
+    "date": "2026-10-22",
+    "category": "In ontwikkeling",
+    "title": "Meer houvast in Bunny’s Maze",
+    "summary": "Genummerde herkenningspunten en duidelijkere poorten helpen je de hoven uit elkaar te houden. De nieuwe ontwikkelversie is in Studio getest.",
+    "image": "wayfinding-gate-open",
+    "sections": [
+      {
+        "heading": "Een poort die vertelt wat er gebeurt",
+        "paragraphs": [
+          "Een geopende poort viel tussen de hoge stenen muren nog te weinig op. Daarom krijgt elke poort een bord aan beide kanten. Zolang de puzzel niet is opgelost, tonen gekruiste steken dat de doorgang gesloten is.",
+          "Na het oplossen verdwijnen de steken en wijst een lichtgevende vloerpijl door de poort. Het bord vertelt waar je verdergaat: naar het volgende hof, of bij de laatste poort naar de bloesemklok. De tekst volgt de Nederlandse of Engelse taalinstelling."
+        ],
+        "image": "wayfinding-gate-closed"
+      },
+      {
+        "heading": "Roos, klos en maan langs de gangen",
+        "paragraphs": [
+          "Negen wandborden geven de drie hoven herkenbare plekken. Het eerste hof krijgt rozen, het tweede draadspoelen en het derde maansikkels. Elk hof heeft drie genummerde borden. Zo kun je onthouden waar je al bent geweest.",
+          "De borden hangen boven de speler. Hun vorm, naam en nummer dragen de informatie samen; kleur is niet de enige aanwijzing. De bestaande puzzelborden blijven zichtbaar en geven nog steeds de volgorde van de drie steken."
+        ],
+        "image": "wayfinding-rose"
+      },
+      {
+        "heading": "Kijken, aanpassen en opnieuw controleren",
+        "paragraphs": [
+          "De eerste borden hingen te laag: met de gewone spelcamera stond de speler ervoor. Na het verhogen bleek de bovenrand van de klos van dichtbij nog een deel van haar naam te bedekken. De klos is daarom iets kleiner gemaakt en lager op het bord geplaatst.",
+          "De laatste beeldcontrole wachtte tot de modellen en textures volledig geladen waren. In dertien Studio-opnamen zijn de herkenningspunten, de bestaande puzzelaanwijzingen en de gesloten en geopende poorten bekeken. De spelbelichting bleef daarbij behouden."
+        ],
+        "image": "wayfinding-spool"
+      },
+      {
+        "heading": "Getest in Studio, nog niet in de besloten release",
+        "paragraphs": [
+          "De volledige tests van de tuin en het doolhof zijn elk met twee echte Studio-clients geslaagd. De doolhoftest volgde 31 routes met 327 loopopdrachten, drie puzzels, zes optionele linten en vier checkpoints. Ook is gecontroleerd dat iedere speler zijn eigen poort- en puzzelvoortgang houdt.",
+          "De beelden tonen een lokale testopstelling met vooraf ingestelde voortgang. Het rozenbord is met de gewone spelcamera en zichtbare speler vastgelegd; de andere beelden gebruiken vaste inspectiecamera’s. Dit zijn geen fysieke telefoonbeelden of metingen van hoe snel een mens de weg vindt.",
+          "Deze verbeteringen zijn nog niet naar Roblox gepubliceerd. De bestaande besloten release blijft versie 0.4.0. Een speeltest op een echte telefoon en het hervatten van opgeslagen doolhofvoortgang na opnieuw inloggen blijven afzonderlijke vervolgstappen."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "de-eerste-steken-van-bunnys-maze",
     "date": "2026-10-19",
     "category": "Update 0.4.0",
