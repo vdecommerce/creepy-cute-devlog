@@ -126,5 +126,81 @@
     "label": "Roblox Studio · vaste inspectiecamera, versie 0.4.0",
     "alt": "De Nederlandse aanwijzing met de drie symbolen Maan, Roos en Klos.",
     "kind": "native"
+  },
+  "wayfinding-gate-open": {
+    "file": "wayfinding-gate-open.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera · nog niet uitgebracht",
+    "alt": "Poort 1 met het bord OPEN en een lichtgevende pijl naar het volgende hof.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-22T20:32:27.076Z",
+      "artifactSHA256": "56f32617eaea4e87d0d2cf0f5b55d178b1330edb1833fbddbdf32386b7bfabbc",
+      "fixtureSHA256": "3dd244a769ef6465c2c6dd227f1696349714c6ea7a237a4a2031c90470cb5c81",
+      "sourcePNG_SHA256": "beba498ba8e6eb32d1854305298c70acab2cda1ac490f7dd2e5457513a4e9310",
+      "webpSHA256": "9b5c3a1b017c78214a46efa337e2c7d486ede2fb48c1165c9cc1327bbb791c66",
+      "nativeEngineVersion": "0.744.587.7440007",
+      "treatment": "Alleen de spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
+  },
+  "wayfinding-gate-closed": {
+    "file": "wayfinding-gate-closed.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera · nog niet uitgebracht",
+    "alt": "Dezelfde poort gesloten, met gekruiste lichtgevende steken en de opdracht om de puzzel op te lossen.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-22T20:32:16.825Z",
+      "artifactSHA256": "56f32617eaea4e87d0d2cf0f5b55d178b1330edb1833fbddbdf32386b7bfabbc",
+      "fixtureSHA256": "3dd244a769ef6465c2c6dd227f1696349714c6ea7a237a4a2031c90470cb5c81",
+      "sourcePNG_SHA256": "eced8808504c854c59705af301a740efae32894f76de8ab27b1f503041096e5b",
+      "webpSHA256": "19e4054af1aba901e3c2e303fdef8b0ebc374c6827d713cedf7e49c2e20945e6",
+      "nativeEngineVersion": "0.744.587.7440007",
+      "treatment": "Alleen de spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
+  },
+  "wayfinding-rose": {
+    "file": "wayfinding-rose.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · gewone spelcamera, testopstelling · nog niet uitgebracht",
+    "alt": "Een speler kijkt met de gewone spelcamera naar het genummerde rozenbord boven de gang.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-22T20:30:45.342Z",
+      "artifactSHA256": "56f32617eaea4e87d0d2cf0f5b55d178b1330edb1833fbddbdf32386b7bfabbc",
+      "fixtureSHA256": "3dd244a769ef6465c2c6dd227f1696349714c6ea7a237a4a2031c90470cb5c81",
+      "sourcePNG_SHA256": "2aa9994b0fafc5cd7266912c511e75104c0298c0fee0096f1f940bf2b549d075",
+      "webpSHA256": "89e28795fcc058b8176383d3dffcf0c3414ba9d72f6788524d50cfbdb3efa6c0",
+      "nativeEngineVersion": "0.744.587.7440007",
+      "treatment": "Alleen de spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
+  },
+  "wayfinding-spool": {
+    "file": "wayfinding-spool.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera · nog niet uitgebracht",
+    "alt": "Het Nederlandse bord KLOS · 1 met een draadspoel en een volledig zichtbare naam.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-22T20:31:25.791Z",
+      "artifactSHA256": "56f32617eaea4e87d0d2cf0f5b55d178b1330edb1833fbddbdf32386b7bfabbc",
+      "fixtureSHA256": "3dd244a769ef6465c2c6dd227f1696349714c6ea7a237a4a2031c90470cb5c81",
+      "sourcePNG_SHA256": "18bce2aedea4d821dafa8eaef7d38749c0520b0338fd35068bd0d03faf6da5a6",
+      "webpSHA256": "320173a1ee154dc9f7e1109d9fd137eed3ce82e534d46ccdaa1f75980c16466a",
+      "nativeEngineVersion": "0.744.587.7440007",
+      "treatment": "Alleen de spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
   }
 }
