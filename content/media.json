@@ -202,5 +202,62 @@
       "inspectionOnly": true,
       "physicalPhone": false
     }
+  },
+  "maze-materials-gate": {
+    "file": "maze-materials-gate.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera · nog niet uitgebracht",
+    "alt": "De geopende poort met metselwerk, een stenen vloer en een lichtgevende pijl naar het volgende hof.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-27T22:40:43.352Z",
+      "artifactSHA256": "1285d6b092b9bb04e946ad1b9cb564c1288de3f7401ec64873193edb113b31b6",
+      "fixtureSHA256": "3dd244a769ef6465c2c6dd227f1696349714c6ea7a237a4a2031c90470cb5c81",
+      "sourcePNG_SHA256": "cf372ec4760d3496986cd42d1cdeabd8071a8a82d9768be9dd77da332227c456",
+      "webpSHA256": "4e6a4211fa697488555d4fb3cbba736db0b841c78f7de9c940485e2ed57ab1bd",
+      "nativeEngineVersion": "0.745.0.7451137",
+      "treatment": "Alleen de spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
+  },
+  "maze-camera-close": {
+    "file": "maze-camera-close.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · gewone spelcamera, testopstelling · nog niet uitgebracht",
+    "alt": "De speler dicht in beeld onder het rozenbord, met zichtbaar metselwerk en een stenen vloer.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-27T22:39:01.450Z",
+      "artifactSHA256": "1285d6b092b9bb04e946ad1b9cb564c1288de3f7401ec64873193edb113b31b6",
+      "fixtureSHA256": "3dd244a769ef6465c2c6dd227f1696349714c6ea7a237a4a2031c90470cb5c81",
+      "sourcePNG_SHA256": "7bd9378fba8f2f993a4d175cd36935da5878bf8ff3dc7ae7a934fdfec0398e20",
+      "webpSHA256": "e4e7d8610d2e54024ed99a9a184e992a3fc0570a235686c34bf1b5dfa2b77506",
+      "nativeEngineVersion": "0.745.0.7451137",
+      "treatment": "Alleen de spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
+  },
+  "maze-materials-court": {
+    "file": "maze-materials-court.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera · nog niet uitgebracht",
+    "alt": "De Nederlandse symboolpuzzel met warm metselwerk en een vloer van gelegde stenen.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-27T22:39:51.502Z",
+      "artifactSHA256": "1285d6b092b9bb04e946ad1b9cb564c1288de3f7401ec64873193edb113b31b6",
+      "fixtureSHA256": "3dd244a769ef6465c2c6dd227f1696349714c6ea7a237a4a2031c90470cb5c81",
+      "sourcePNG_SHA256": "307c748d6eb7bf01c3e0bb956b9733041e0a97cf65bb7231c0ec91b03bef5577",
+      "webpSHA256": "e30d35423024069bcfcdafd6b46fae76d47279d980081cb9637221f99107e3d2",
+      "nativeEngineVersion": "0.745.0.7451137",
+      "treatment": "Alleen de spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
   }
 }

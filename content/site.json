@@ -7,8 +7,8 @@
   "status": "In ontwikkeling · besloten test",
   "chapter": "Hoofdstuk I + II",
   "release": "0.4.0",
-  "updated": "2026-10-22",
-  "statusText": "Hoofdstuk I en Bunny’s Maze zijn speelbaar in de besloten versie 0.4.0. Een nieuwe ontwikkelversie voegt negen genummerde herkenningspunten en duidelijkere poorten toe. De volledige Studio-tests met twee spelers zijn geslaagd; deze verbeteringen zijn nog niet naar Roblox gepubliceerd.",
+  "updated": "2026-10-27",
+  "statusText": "Hoofdstuk I en Bunny’s Maze zijn speelbaar in de besloten versie 0.4.0. De nieuwe ontwikkelversie combineert genummerde herkenningspunten en duidelijkere poorten met een vaste, korte maze-camera en rijkere steenmaterialen. Deze verbeteringen zijn in Studio getest en nog niet naar Roblox gepubliceerd.",
   "nextText": "Na checkpoint zestien en het herstellen van alle drie de vrienden opent Bunny’s Maze. De volgende speeltest controleert de nieuwe herkenningspunten op een echte telefoon en het hervatten van opgeslagen doolhofvoortgang na opnieuw inloggen.",
   "gameUrl": "https://www.roblox.com/games/73368232297614/",
   "repository": "https://github.com/vdecommerce/creepy-cute-devlog"
