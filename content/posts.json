@@ -1,5 +1,54 @@
 [
   {
+    "slug": "dichterbij-in-het-stenen-doolhof",
+    "date": "2026-10-28",
+    "category": "In ontwikkeling",
+    "title": "Dichterbij in het stenen doolhof",
+    "summary": "Een vaste, korte camera houdt Bunny’s Maze een doolhof. Metselwerk, gelegde stenen en vochtige leisteen geven de gangen meer detail.",
+    "image": "maze-materials-gate",
+    "sections": [
+      {
+        "heading": "De camera blijft bij je",
+        "paragraphs": [
+          "In een doolhof hoort het zoeken vanuit de gangen te komen. Ver uitzoomen maakte het mogelijk om over de muren te kijken en de route van bovenaf te lezen. Daarom krijgt de ontwikkelversie van Bunny’s Maze een vaste afstand dicht bij de speler.",
+          "Je kunt de camera nog draaien en rondkijken. In de buurt van een muur kan de camera dichterbij schuiven. Wanneer je terugkeert naar de tuin, krijg je jouw eerdere zoominstelling terug. Ook na opnieuw verschijnen in het doolhof blijft de korte camera actief."
+        ],
+        "image": "maze-camera-close"
+      },
+      {
+        "heading": "Dichtbij de puzzeltafel",
+        "paragraphs": [
+          "Bij de drie puzzeltafels blijft de symboolvolgorde boven het hoofd van de speler leesbaar. Recht van voren kan je personage het middelste voorwerp en naamplaatje afdekken. De interactieprompt blijft zichtbaar; door te draaien of opzij te stappen kun je het voorwerp bekijken.",
+          "Deze extra controle gebruikt de gewone spelcamera met zichtbare speler. In een nauwe hoek komt de camera iets dichterbij om de muur te ontwijken. De vaste zoom voorkomt nog steeds dat je ver boven het doolhof uitzoomt."
+        ],
+        "image": "maze-camera-table"
+      },
+      {
+        "heading": "Steen krijgt meer verschil",
+        "paragraphs": [
+          "De muren en vloeren hadden grotendeels dezelfde leisteenafwerking. Nu krijgen de hoge wanden metselwerk en de vloeren gelegde stenen. De vochtige leisteen blijft op de muurranden aanwezig. Daardoor lees je de verschillende oppervlakken beter.",
+          "Ieder hof krijgt een iets andere steentint: zachter en groener bij de rozen, warmer bij de klossen en koeler bij de maan. Kleine kleurverschillen tussen muurdelen breken grote egale vlakken op. De bestaande bloemen, bogen, poppen en lucht blijven behouden.",
+          "Deze stap gebruikt de materiaaltexturen van Roblox zelf. Er zijn geen nieuwe afbeeldingsbestanden of extra wereldonderdelen aan de game toegevoegd. Routes, botsingsvlakken en puzzels blijven gelijk."
+        ],
+        "image": "maze-materials-court"
+      },
+      {
+        "heading": "Afwerking bekijken in de echte engine",
+        "paragraphs": [
+          "Dertien Studio-opnamen tonen de drie hoven, de bestaande puzzelaanwijzingen en beide toestanden van de poorten. De gewone spelbelichting blijft actief. Drie opnamen gebruiken de gewone spelcamera met zichtbare speler; de overige beelden gebruiken vaste inspectiecamera’s.",
+          "De herkenningspunten en puzzelborden blijven leesbaar met de nieuwe materialen. De herhaling van het metselwerk en de hoekige details in sommige props blijven zichtbaar. Die vragen nog verdere uitwerking terwijl we naar een rijkere wereld toewerken."
+        ]
+      },
+      {
+        "heading": "De stand van deze ontwikkelversie",
+        "paragraphs": [
+          "De nieuwe camera en materialen zijn lokaal in Studio getest. De volledige controles van de tuin en het doolhof zijn elk met twee Studio-clients geslaagd, inclusief terugkeren, opnieuw verschijnen en afzonderlijke spelersvoortgang.",
+          "Dit is nog geen nieuwe Roblox-release. De bestaande besloten versie blijft 0.4.0. Prestaties en bediening op een echte telefoon, menselijke routevinding en het hervatten van opgeslagen doolhofvoortgang na opnieuw inloggen vragen afzonderlijke controle."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "meer-houvast-in-bunnys-maze",
     "date": "2026-10-22",
     "category": "In ontwikkeling",
