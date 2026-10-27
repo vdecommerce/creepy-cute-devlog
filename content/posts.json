@@ -1,7 +1,7 @@
 [
   {
     "slug": "dichterbij-in-het-stenen-doolhof",
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "category": "In ontwikkeling",
     "title": "Dichterbij in het stenen doolhof",
     "summary": "Een vaste, korte camera houdt Bunny’s Maze een doolhof. Metselwerk, gelegde stenen en vochtige leisteen geven de gangen meer detail.",
@@ -14,6 +14,14 @@
           "Je kunt de camera nog draaien en rondkijken. In de buurt van een muur kan de camera dichterbij schuiven. Wanneer je terugkeert naar de tuin, krijg je jouw eerdere zoominstelling terug. Ook na opnieuw verschijnen in het doolhof blijft de korte camera actief."
         ],
         "image": "maze-camera-close"
+      },
+      {
+        "heading": "Dichtbij de puzzeltafel",
+        "paragraphs": [
+          "Bij de drie puzzeltafels blijft de symboolvolgorde boven het hoofd van de speler leesbaar. Recht van voren kan je personage het middelste voorwerp en naamplaatje afdekken. De interactieprompt blijft zichtbaar; door te draaien of opzij te stappen kun je het voorwerp bekijken.",
+          "Deze extra controle gebruikt de gewone spelcamera met zichtbare speler. In een nauwe hoek komt de camera iets dichterbij om de muur te ontwijken. De vaste zoom voorkomt nog steeds dat je ver boven het doolhof uitzoomt."
+        ],
+        "image": "maze-camera-table"
       },
       {
         "heading": "Steen krijgt meer verschil",

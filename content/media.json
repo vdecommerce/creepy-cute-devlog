@@ -259,5 +259,24 @@
       "inspectionOnly": true,
       "physicalPhone": false
     }
+  },
+  "maze-camera-table": {
+    "file": "maze-camera-table.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · gewone spelcamera, testopstelling · nog niet uitgebracht",
+    "alt": "De speler bij de Nederlandse puzzeltafel: de volgorde is leesbaar boven het hoofd en de Klos-prompt blijft zichtbaar.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-27T23:05:56.598Z",
+      "artifactSHA256": "1285d6b092b9bb04e946ad1b9cb564c1288de3f7401ec64873193edb113b31b6",
+      "fixtureSHA256": "9e76c8e3399de51f816db193f88fdab296f3830091db69320658820bcabca0e3",
+      "sourcePNG_SHA256": "9f95a82696f53e89e14b12764ec6f870adb41ff216e637bc75f63fc91f49b241",
+      "webpSHA256": "4c5a8b5b8bf18e5500f967f4e5322856083eab8259dbd8113e0151c1917e96c4",
+      "nativeEngineVersion": "0.745.0.7451137",
+      "treatment": "Alleen de spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
   }
 }
