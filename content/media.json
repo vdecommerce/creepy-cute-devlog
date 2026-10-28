@@ -278,5 +278,81 @@
       "inspectionOnly": true,
       "physicalPhone": false
     }
+  },
+  "living-entrance": {
+    "file": "living-entrance.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · gewone spelcamera, stilstaande speler · nog niet uitgebracht",
+    "alt": "Gebogen ranken met bladeren dragen de rozen bij de eerste poort.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-28T01:33:31.107Z",
+      "artifactSHA256": "1e4a605a40b68c9adbedde631a8a15a628861d6f4dff79f2af3fef8b44e97852",
+      "fixtureSHA256": "110a79047ce949e30bd5518835a034c47e50990b54214e04da63d492383feabc",
+      "sourcePNG_SHA256": "eb608698ed683b432bedd77f4fecac26972f65a5884924dcea8ec2651f88b265",
+      "webpSHA256": "42266f39f1cba4af6c1fb157de8bb0aa4d3c265acb69176f14b140e1f298325e",
+      "nativeEngineVersion": "0.745.0.7451137",
+      "treatment": "Alleen spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
+  },
+  "living-wildlife": {
+    "file": "living-wildlife.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera · nog niet uitgebracht",
+    "alt": "Kleine moswezentjes rond de terugkeersteen in de nieuwe tuin.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-28T01:34:08.831Z",
+      "artifactSHA256": "1e4a605a40b68c9adbedde631a8a15a628861d6f4dff79f2af3fef8b44e97852",
+      "fixtureSHA256": "110a79047ce949e30bd5518835a034c47e50990b54214e04da63d492383feabc",
+      "sourcePNG_SHA256": "365329f0e3a5fc0de777ea67846ece90a9449e27e782b59ec937df1ab06b51dc",
+      "webpSHA256": "fa39f2008712d7719751175e2ba11999e73cebcdc38814797da808dd2c0873d7",
+      "nativeEngineVersion": "0.745.0.7451137",
+      "treatment": "Alleen spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
+  },
+  "living-canopy": {
+    "file": "living-canopy.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera · nog niet uitgebracht",
+    "alt": "Houten bruggen en een uitkijkplatform boven de nieuwe tuin in ontwikkeling.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-28T01:36:12.186Z",
+      "artifactSHA256": "1e4a605a40b68c9adbedde631a8a15a628861d6f4dff79f2af3fef8b44e97852",
+      "fixtureSHA256": "110a79047ce949e30bd5518835a034c47e50990b54214e04da63d492383feabc",
+      "sourcePNG_SHA256": "ee4f1b1fe692cbae36b0bb2b2274fc988987d5f63d157b8bcb9618947fa1472f",
+      "webpSHA256": "f3dcdb76bc1e6797f9607911a1037265676c4ac35e09caa27a81a0dbf1ee2181",
+      "nativeEngineVersion": "0.745.0.7451137",
+      "treatment": "Alleen spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
+  },
+  "living-vault": {
+    "file": "living-vault.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · vaste inspectiecamera · nog niet uitgebracht",
+    "alt": "Een ondergrondse kamer met hangende wortels en kleine wezentjes.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-28T01:35:49.242Z",
+      "artifactSHA256": "1e4a605a40b68c9adbedde631a8a15a628861d6f4dff79f2af3fef8b44e97852",
+      "fixtureSHA256": "110a79047ce949e30bd5518835a034c47e50990b54214e04da63d492383feabc",
+      "sourcePNG_SHA256": "c51f0174a0da962eb0c103d77b5ca48d68233984d32043fd4cdc1db4ae46d3ef",
+      "webpSHA256": "7da3caf7e06b2f7009777a0d8b35a21321b244260a48a75045a0d012917250e5",
+      "nativeEngineVersion": "0.745.0.7451137",
+      "treatment": "Alleen spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
   }
 }

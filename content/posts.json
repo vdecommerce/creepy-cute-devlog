@@ -1,5 +1,60 @@
 [
   {
+    "slug": "de-tuin-begint-te-leven",
+    "date": "2026-10-28",
+    "category": "In ontwikkeling",
+    "title": "De tuin begint te leven",
+    "summary": "Gebogen rozenranken, kleine moswezentjes, zijden motten en planten die reageren op je nabijheid. De nieuwe ontwikkelversie krijgt meer leven, ook onderweg.",
+    "image": "living-entrance",
+    "sections": [
+      {
+        "heading": "Van rechte stokken naar groeiende ranken",
+        "paragraphs": [
+          "Bij de eerste poort droegen lange, rechte stelen de grote rozen. In de nieuwe ontwikkelversie maken die plaats voor gekromde ranken met taps toelopende takken, wortelaanlopen en bladeren die de groei volgen. De bestaande bloemen blijven op hun plek.",
+          "Die organische vormen keren terug in varens, paddenstoelgroepjes, gekrulde zaadpeulen en de bomen van de nieuwe tuinen. De boomkruinen bestaan uit afhangende bladvormen in plaats van bolvormige volumes."
+        ],
+        "image": "living-entrance"
+      },
+      {
+        "heading": "Er beweegt iets tussen de planten",
+        "paragraphs": [
+          "Kleine moswezentjes scharrelen in de buurt van de route. Zijden motten bewegen hun vleugels en fladderen door de tuin en het doolhof. Onder de grond krijgen de wezentjes een koelere tint; hoger tussen de bomen zweven motten langs de uitkijkplaatsen.",
+          "Als je dichtbij komt, reageren de wezentjes. Sommige zaadpeulen bewegen even en paddenstoelen lichten kort op. Daarbij verschijnt een klein beetje pollen en klinkt een zacht klankje. Het zijn kleine ontdekkingen tijdens het lopen, zonder extra beloningen of verplichte opdrachten."
+        ],
+        "image": "living-wildlife"
+      },
+      {
+        "heading": "Meer ruimte om te verdwalen",
+        "paragraphs": [
+          "Naast de bestaande hoofdstukken bouwen we aan een grote, verbonden tuin met een rozentuin, Klossendorp, de Dauwvallen en het Maanbos. Een verborgen helling leidt naar twee ondergrondse kamers. Een echte wenteltrap geeft toegang tot hoge uitkijkplatforms en bruggen tussen de kruinen.",
+          "Zes gebieden zijn te ontdekken. Reisstenen laten je terugreizen naar plekken die je al hebt bezocht. De achttien lichtzaadjes horen bij de huidige spelsessie: opnieuw verbinden begint een nieuwe verzameling. Je opgeslagen verhaalvoortgang blijft daarvan losstaan."
+        ],
+        "image": "living-canopy"
+      },
+      {
+        "heading": "Rust kunnen kiezen",
+        "paragraphs": [
+          "De planten bewegen zacht in de wind. Dichtbij zijn meer details actief; ver weg worden bewegingen beperkt. De rustige FX-stand pauzeert de nieuwe fauna en plantbewegingen en stopt de korte ontwaakeffecten. De geluidsknop dempt ook de nieuwe klankjes.",
+          "De steenafwerking krijgt eigen kleur-, normaal- en ruwheidskaarten. We bekijken de materialen samen met de vormen, beweging en gewone camera: alleen meer texturebestanden maakt een wereld nog niet levendig."
+        ],
+        "image": "living-vault"
+      },
+      {
+        "heading": "Dit is een ontwikkelversie",
+        "paragraphs": [
+          "De eerste versie van de nieuwe wereld en de terugkeer naar het verhaal zijn met twee Studio-clients getest. Ook de nieuwe wezentjes, plantreacties en rustige effecten zijn in de echte engine gecontroleerd. Daarna is de begroeiing verder uitgebreid: de beelden tonen die nieuwere visuele tussenstand, waarvan de volledige hertest nog volgt.",
+          "Deze uitbreiding is nog niet als Roblox-update uitgebracht. De bestaande besloten versie blijft 0.4.0. Testen op een echte telefoon en ervaringen van spelers blijven nodig voordat we uitspraken doen over bediening en prestaties op hun apparaten."
+        ]
+      },
+      {
+        "heading": "Verder bouwen aan een natuurlijke wereld",
+        "paragraphs": [
+          "De open velden, herhaling van bomen en hoekige ondergrondse kamers zijn nog zichtbaar. We werken verder aan natuurlijke rotsranden, meer variatie en betere overgangen tussen de gebieden. Een rijkere wereld vraagt naast mooie materialen ook overtuigende vormen, geluid en kleine verrassingen."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "dichterbij-in-het-stenen-doolhof",
     "date": "2026-10-28",
     "category": "In ontwikkeling",
