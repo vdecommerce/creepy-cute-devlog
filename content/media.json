@@ -354,5 +354,24 @@
       "inspectionOnly": true,
       "physicalPhone": false
     }
+  },
+  "living-release-canopy": {
+    "file": "living-release-canopy.webp",
+    "width": 1600,
+    "height": 852,
+    "label": "Roblox Studio · gewone spelcamera, stilstaande speler · versie 0.5.0 vóór publicatie",
+    "alt": "Een stilstaande speler op de hoge boomtoproute, met de nog herhalende rotsrand en de roze lucht op de achtergrond.",
+    "kind": "native",
+    "provenance": {
+      "capturedUTC": "2026-10-28T10:49:26.559Z",
+      "artifactSHA256": "52cd2750c9a9d1d28daa4d571d6bd4f5cacb7ffdc4b536712994256215e57c17",
+      "fixtureSHA256": "809b0064d06a3652402fb562d4361797263b9ecdf4fd14a983966e2c03826807",
+      "sourcePNG_SHA256": "4512bc89189934c56876db0da15acb0825b20bcc878abc21830f01adc7c0fd26",
+      "webpSHA256": "b15d5451d6ef9767318318ab94a7d7f06ce9f4132ac9bb3eddfcbe44c7191830",
+      "nativeEngineVersion": "0.745.0.7451137",
+      "treatment": "Alleen spelviewport uitgesneden (3656×1946 op 4,144); verkleind tot 1600 pixels breed. Geen kleur- of inhoudsbewerking.",
+      "inspectionOnly": true,
+      "physicalPhone": false
+    }
   }
 }

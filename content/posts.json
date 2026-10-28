@@ -1,5 +1,50 @@
 [
   {
+    "slug": "de-levende-tuinen-zijn-open-voor-testers",
+    "date": "2026-10-28",
+    "category": "Besloten update",
+    "title": "De levende tuinen zijn open voor testers",
+    "summary": "Versie 0.5.0 staat in de besloten Roblox-game: verken de grote tuin, daal af onder de wortels en klim naar de boomtoppen. De wereld krijgt ondertussen verdere afwerking.",
+    "image": "living-release-canopy",
+    "sections": [
+      {
+        "heading": "Een nieuwe ingang naast het begin",
+        "paragraphs": [
+          "De levende tuinen zijn nu beschikbaar in de besloten versie 0.5.0. Je vindt de ingang naast de start van het verhaal. Je hoeft de twee hoofdstukken niet eerst uit te spelen om de nieuwe tuin te verkennen.",
+          "Vier streken verbinden de rozentuin, Klossendorp, de Dauwvallen en het Maanbos. Onderweg kun je een bedekte helling naar de wortelkamers ontdekken, of via de wenteltrap naar hoge uitkijkplaatsen en bruggen klimmen."
+        ]
+      },
+      {
+        "heading": "Ontdekken tijdens je spelsessie",
+        "paragraphs": [
+          "Er zijn zes gebieden en achttien lichtzaadjes te vinden. Reisstenen brengen je terug naar ontdekte plekken; via de kaart kun je overal terugkeren naar het verhaal.",
+          "Deze ontdekkingen horen bij de huidige serversessie. Teruggaan naar het verhaal en weer binnenkomen houdt ze vast; opnieuw verbinden begint een nieuwe verzameling. De bestaande opgeslagen verhaal- en doolhofvoortgang blijft apart."
+        ]
+      },
+      {
+        "heading": "Leven tussen de planten",
+        "paragraphs": [
+          "Moswezentjes scharrelen langs de routes, motten bewegen hun vleugels en sommige paddenstoelen en zaadpeulen reageren op je nabijheid. Gebogen ranken vervangen de rechte rozenstelen bij de eerste poort. Geluid en beweging kun je dempen met de bestaande instellingen."
+        ]
+      },
+      {
+        "heading": "Gepubliceerd als tussenversie",
+        "paragraphs": [
+          "Roblox bevestigt plaatsversie 38 als gepubliceerd; de toegang blijft besloten. Na opnieuw openen van de cloudbewerker komen de 44 scripts en acht bijgewerkte onderdelen overeen met de gecontroleerde inhoud.",
+          "Vier functionele Studio-tests slagen op de voorganger van deze bouw. De laatste wijziging verwijdert alleen 32 decoratieve rotsen; vergelijking bevestigt dat de overige wereldinhoud gelijk blijft. Alleen de bouwhulp voor die decoratie is aangepast. Vijf nieuwe Studio-opnamen controleren het aangepaste uitzicht.",
+          "De afbeelding bij dit artikel gebruikt de gewone spelcamera met een stilstaande testspeler vóór publicatie. Dit is geen opname van een echte telefoon of van een live Roblox-server."
+        ]
+      },
+      {
+        "heading": "De afwerking gaat verder",
+        "paragraphs": [
+          "De rotsrand oogt nog te herhalend, de velden zijn vlak en de ondergrondse kamers blijven hoekig. Die punten zijn bekend. Op verzoek is deze speelbare tussenversie nu gepubliceerd terwijl we verder werken aan organische vormen, landschap en atmosfeer.",
+          "Dit is nog geen afgeronde AAA-wereld. We willen tijdens de volgende speeltests vooral weten waar spelers verdwalen of vastlopen en hoe de grotere tuin op echte telefoons loopt."
+        ]
+      }
+    ]
+  },
+  {
     "slug": "de-tuin-begint-te-leven",
     "date": "2026-10-28",
     "category": "In ontwikkeling",

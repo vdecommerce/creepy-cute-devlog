@@ -5,11 +5,11 @@
   "base": "/creepy-cute-devlog/",
   "description": "Volg de ontwikkeling van Creepy Cute: The Forgotten Garden. Een mysterieuze Roblox-tuin vol handgemaakte poppen, rozen en verborgen herinneringen.",
   "status": "In ontwikkeling · besloten test",
-  "chapter": "Hoofdstuk I + II",
-  "release": "0.4.0",
+  "chapter": "Hoofdstuk I + II · Levende Tuinen",
+  "release": "0.5.0",
   "updated": "2026-10-28",
-  "statusText": "Hoofdstuk I en Bunny’s Maze zijn speelbaar in de besloten versie 0.4.0. De nieuwe ontwikkelversie voegt een grote verkenbare tuin, verborgen dieptes en boomtoproutes toe. Organische begroeiing en kleine bewegende wezens brengen de bestaande en nieuwe gebieden meer tot leven. Deze uitbreiding is nog niet naar Roblox gepubliceerd.",
-  "nextText": "De volgende speeltest richt zich op de grote tuin, verborgen routes en nieuwe levende details. Bediening en prestaties op echte telefoons vragen nog afzonderlijke controle.",
+  "statusText": "Versie 0.5.0 staat in de besloten Roblox-game. Naast Hoofdstuk I en Bunny’s Maze kun je nu de grote tuin, verborgen wortelkamers en boomtoproutes verkennen. Kleine wezens en reagerende planten brengen meer leven in de wereld. Landschap en rotsranden krijgen verdere afwerking.",
+  "nextText": "We werken verder aan natuurlijke rotsvormen en een minder vlak landschap. De volgende speeltest richt zich op routevinding, vastlopen en bediening en prestaties op echte telefoons.",
   "gameUrl": "https://www.roblox.com/games/73368232297614/",
   "repository": "https://github.com/vdecommerce/creepy-cute-devlog"
 }
